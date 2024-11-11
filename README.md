@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luci831
-- 👀 I’m interested in Dotnet, Full stack , Dsa
+- 👀 I’m interested in Java, Full stack , Dsa
 - 🌱 I’m currently learning Dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
