@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Luci831
+- currently working on developing etl pipelines , interested in python, pyspark and databricks
 - 👀 I’m interested in Java, Full stack , Dsa
 - 🌱 I’m currently learning Dsa
 - 💞️ I’m looking to collaborate on ...
